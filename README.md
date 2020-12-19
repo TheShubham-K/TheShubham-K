@@ -24,12 +24,18 @@
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=TheShubham-K&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
 
+<div style="text-align: left; width: 350px;">
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheShubham-K&repo=Personal_Expanses)](https://github.com/TheShubham-K/Personal_Expanses)
+</div>
+<div style="text-align: center; width: 350px;">
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheShubham-K&repo=Corona_tracker)](https://github.com/TheShubham-K/Corona_tracker)
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShubham-k&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShubham-k&layout=compact&langs_count=100)
 <br>
 
 <img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/starwars.gif" alt="Star Wars" width="980">
