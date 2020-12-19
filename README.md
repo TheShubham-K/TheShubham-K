@@ -28,7 +28,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheShubham-K&repo=Corona_tracker)](https://github.com/TheShubham-K/Corona_tracker)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShubham-k&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShubham-k&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
