@@ -38,6 +38,8 @@
 </a> 
 
 <br>
+<br>
+<br>
 
 <img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/starwars.gif" alt="Star Wars" width="980">
 
