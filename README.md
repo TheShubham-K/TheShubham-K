@@ -21,21 +21,22 @@
 <br>
 
 
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=TheShubham-K&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
+## &#x1f4c8; GitHub Stats
 
-<div style="text-align: left; width: 350px;">
+<a href="https://github.com/TheShubham-K/TheShubham-K">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShubham-K&hide=jupyter Notebook&langs_count=100&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/TheShubham-K/TheShubham-K">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheShubham-K&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&hide_border=false&theme=radical" alt="Shubham's GitHub Stats" />
+</a>
+<a href="https://github.com/TheShubham-K/Personal_Expanses">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheShubham-K&repo=Personal_Expanses&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/TheShubham-K/Corona_tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheShubham-K&repo=Corona_tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheShubham-K&repo=Personal_Expanses)](https://github.com/TheShubham-K/Personal_Expanses)
-</div>
-<div style="text-align: center; width: 350px;">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheShubham-K&repo=Corona_tracker)](https://github.com/TheShubham-K/Corona_tracker)
-</div>
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShubham-k&layout=compact&langs_count=100)
 <br>
 
 <img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/starwars.gif" alt="Star Wars" width="980">
