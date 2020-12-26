@@ -25,10 +25,10 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/TheShubham-K/TheShubham-K">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShubham-K&hide=jupyter Notebook,html&langs_count=100&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-zeta-teal.vercel.app/api/top-langs/?username=TheShubham-K&hide=jupyter Notebook,html&langs_count=100&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/TheShubham-K/TheShubham-K">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheShubham-K&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&hide_border=false&theme=radical" alt="Shubham's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-zeta-teal.vercel.app/api?username=TheShubham-K&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&hide_border=false&theme=radical" alt="Shubham's GitHub Stats" />
 </a>
 <a href="https://github.com/TheShubham-K/Personal_Expanses">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheShubham-K&repo=Personal_Expanses&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
