@@ -94,9 +94,12 @@
       </td>
     </tr>
     <tr valign="top">
-    <tr valign="top">
     </tr>
-    
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
+      </td>
   </tbody>
 </table>
 
