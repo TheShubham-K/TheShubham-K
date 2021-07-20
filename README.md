@@ -10,7 +10,7 @@
 <p>
   <em>
     I am a 3rd Year undergraduate from <a href="https://www.nmamit.nitte.edu.in/"> <b>Nitte Mahalinga Adyanthaya Memorial Institute of Technology</b>, Udupi</a>. <br>
-    A <b>Android Developer</b> <img src="Assets\Developer.gif" width="30px"> and a <b>UI/UX Designer,</b>&nbsp;<img src="Assets\Designer.gif" width="36px"><br>and also a <b>Machine Learning Enthusiast</b><img src="Assets\tensorflow.gif" width="20px">, who is <b>obsessed</b>
+    A <b>Android Developer</b> <img src="Assets\Developer.gif" width="30px">&nbsp;<img src="Assets\Designer.gif" width="36px"><br>and also a <b>Machine Learning Enthusiast</b><img src="Assets\tensorflow.gif" width="20px">, who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and takes all the <b>oppurtunities</b> to 
     <b>grow</b> <img src="Assets\Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="Assets\Medal.gif" width="20px">
