@@ -20,6 +20,9 @@
 
 <br>
 
+## GitHUb' Activity Graph
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=TheShubham-K&bg_color=000000&color=70d709&line=f7f7f7&point=2e2cb5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 ## &#x1f4c8; GitHub Stats
