@@ -1,21 +1,28 @@
-# Shubham Kumar&nbsp;<img src="Assets\Mario_Hello_Big.gif" width="30px">
+# Shubham Kumar&nbsp;<img src="Assets\Mario_Hello_Big.gif" width="30px" height="30px">
 
 [![Twitter Badge](https://img.shields.io/badge/-@Shubham-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShubhamKumar_s1)](https://twitter.com/ShubhamKumar_s1) [![Linkedin Badge](https://img.shields.io/badge/-Shubham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamkumar-s/)](https://www.linkedin.com/in/shubhamkumar-s/) [![Medium Badge](https://img.shields.io/badge/-@Shubhamkumar-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@subham.kumar032)](https://subham-kumar032.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-shubhamkumar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theshubhamkumar01@gmail.com)](mailto:theshubhamkumar01@gmail.com) [![Dribbble Badge](https://img.shields.io/badge/-ShubhamKumar-ff69b4?style=flat-square&labelColor=ff69b4&logo=dribbble&logoColor=white&link=https://dribbble.com/ShubhK09)](https://dribbble.com/ShubhK09)
 
-<img align="right" alt="PC GIF" src="Assets\PC.gif" width="140" />
+<img align="right" alt="PC GIF" src="Assets\PC.gif" width="35px" height="35px"/>
 
-### <img src="Assets\Hi.gif" width="29px"> Hello world!&nbsp;<img src="Assets\Earth.gif" width="24px">
+### <img src="Assets\Hi.gif" width="25px" height="25px"> Hello world!&nbsp;<img src="Assets\Earth.gif" width="25px" height="25px">
 
 <p>
   <em>
     I am a Final Year undergraduate from <a href="https://www.nmamit.nitte.edu.in/"> <b>Nitte Mahalinga Adyanthaya Memorial Institute of Technology</b>, Udupi</a>. <br>
-    A <b>Android Developer</b><img src="Assets\Developer.gif" width="30px"><img src="Assets\Designer.gif" width="36px"><br>and also a <b>Machine Learning Enthusiast</b><img src="Assets\tensorflow.gif" width="20px">, who is <b>obsessed</b>
+    A <b>Android Developer by passion</b><img src="Assets\Developer.gif" width="30px" height="30px"><img src="Assets\Designer.gif" width="36px" height="36px"><br>and also a <b>Machine Learning Enthusiast</b><img src="Assets\tensorflow.gif" width="30px" height="30px">, who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and takes all the <b>oppurtunities</b> to 
-    <b>grow</b> <img src="Assets\Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="Assets\Medal.gif" width="20px">
+    <b>grow</b> <img src="Assets\Rocket.gif" width="30px" height="30px">and 
+    <b>excel.</b> <img src="Assets\Medal.gif" width="30px" height="30px">
   </em>  
 </p>
+
+- 🔭 I’m currently working on Web Development Projects and Focussing on Problem Solving.
+- 🌱 I’m currently learning ReactJS, GoLang(GO), Java Sprint Boot Advance and Cloud Fundamentals.
+- 💬 Ask me about Anything.
+- 📫 How to reach me: You can reach me on twitter and linkedin.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Coders Hardcode.
 
 
 <br>
@@ -88,6 +95,19 @@
         <span>𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
       </td>
+      <td width="25%" align="center">
+        <span>React JS</span><br><br><br>
+        <img height="100px" width="100px" src="https://img.icons8.com/plasticine/400/000000/react.png" >
+      </td>
+      <td width="25%" align="center">
+        <span>Go Lang (GO)</span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/color/144/000000/golang.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Java Spring Boot</span><br><br><br>
+        <img height="64px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">
+      </td>
+      </tr>
   </tbody>
 </table>
 
