@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@Shubham-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShubhamKumar_s1)](https://twitter.com/ShubhamKumar_s1) [![Linkedin Badge](https://img.shields.io/badge/-Shubham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamkumar-s/)](https://www.linkedin.com/in/shubhamkumar-s/) [![Medium Badge](https://img.shields.io/badge/-@Shubhamkumar-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@subham.kumar032)](https://subham-kumar032.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-shubhamkumar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theshubhamkumar01@gmail.com)](mailto:theshubhamkumar01@gmail.com) [![Dribbble Badge](https://img.shields.io/badge/-ShubhamKumar-ff69b4?style=flat-square&labelColor=ff69b4&logo=dribbble&logoColor=white&link=https://dribbble.com/ShubhK09)](https://dribbble.com/ShubhK09)
 
-<img align="right" alt="PC GIF" src="Assets\PC.gif" width="190" />
+<img align="right" alt="PC GIF" src="Assets\PC.gif" width="140" />
 
 ### <img src="Assets\Hi.gif" width="29px"> Hello world!&nbsp;<img src="Assets\Earth.gif" width="24px">
 
