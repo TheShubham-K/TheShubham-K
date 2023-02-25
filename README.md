@@ -9,7 +9,7 @@
 
 <p>
   <em>
-    I'm an graduate from <a href="https://www.nmamit.nitte.edu.in/"> <b>Nitte Mahalinga Adyanthaya Memorial Institute of Technology</b>, </a>Distt. Udupi. <br>
+    I'm a graduate from <a href="https://www.nmamit.nitte.edu.in/"> <b>Nitte Mahalinga Adyanthaya Memorial Institute of Technology</b>, </a>Distt. Udupi. <br>
     A <b>Android Developer by passion</b><img src="Assets\Developer.gif" width="30px" height="30px"><img src="Assets\Designer.gif" width="36px" height="36px"><br>and also a <b>Machine Learning Enthusiast</b><img src="Assets\tensorflow.gif" width="30px" height="30px">, who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and takes all the <b>oppurtunities</b> to 
     <b>grow</b> <img src="Assets\Rocket.gif" width="30px" height="30px">and 
